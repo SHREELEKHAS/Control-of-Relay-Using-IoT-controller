@@ -41,6 +41,8 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 ## PROGRAM:
 ```
+
+
 const int relay = A0;
 void setup(){
   pinMode(relay,OUTPUT);
@@ -51,6 +53,9 @@ void loop(){
   digitalWrite(relay, LOW);
   delay(1000);
 }
+
+
+
 
 ```
 #
@@ -74,13 +79,15 @@ void loop(){
 #
 #
 #
+
+
 ## OUTPUT:
 ## ON:
 ![Screenshot 2024-09-11 092415](https://github.com/user-attachments/assets/20b2da94-f34d-4bc7-9480-7b74a98329e8)
-
 ## OFF:
 ![Screenshot 2024-09-11 092042](https://github.com/user-attachments/assets/77d80485-1f7c-4e8f-ad1e-a0d9ab0dc015)
 
-## RESULT:
 
+
+## RESULT:
 Thus the relay is controlled using Arduino controller.
