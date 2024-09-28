@@ -1,5 +1,6 @@
 ## NAME:SHREE LEKHA S
 ## REGISTER NO.: 212223110052
+#
 # EX:02 Control of Relay Using IoT controller
 
 ##  AIM:
@@ -8,7 +9,9 @@ To control the Relay using Arduino controller
 ## Software required:
 Arduino IDE </br>
 Proteus
-
+```
+```
+#
 ## PROCEDURE:
 ### Arduino IDE
 Step1:Open the Arduino IDE </br>
@@ -17,7 +20,9 @@ Step3:Type the program </br>
 Step4:Go to file and select save option to save the program </br>
 Step5:Go to sketch and select verify or compile options </br>
 Step6:If no error Hex file will be generated in the temporary folder </br>
-
+#
+#
+#
 ### Proteus
 Step7:Open the Proteus software </br>
 Step8:Go to file select new design and click ok button </br>
@@ -41,6 +46,7 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 ## PROGRAM:
 ```
+
 const int relay = A0;
 void setup(){
   pinMode(relay,OUTPUT);
@@ -51,6 +57,7 @@ void loop(){
   digitalWrite(relay, LOW);
   delay(1000);
 }
+
 
 ```
 
