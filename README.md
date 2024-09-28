@@ -52,15 +52,13 @@ void loop(){
   delay(1000);
 }
 
-
-
-
-
 ```
 
 ## CIRCUIT DIAGRAM:
 ![Screenshot 2024-09-11 091402](https://github.com/user-attachments/assets/b445f03c-9ed6-4b90-a02b-310661ea4381)
+```
 
+```
 ```
 
 
