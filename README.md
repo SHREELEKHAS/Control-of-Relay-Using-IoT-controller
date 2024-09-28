@@ -1,5 +1,6 @@
-## SHREE LEKHA S 212223110052
-# Control-of-Relay-Using-IoT-controller
+## NAME:SHREE LEKHA S
+## REGISTER NO.: 212223110052
+# EX:02 Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
