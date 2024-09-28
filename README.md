@@ -2,10 +2,11 @@
 ## REGISTER NO.: 212223110052
 #
 # EX:02 Control of Relay Using IoT controller
-
+#
 ##  AIM:
 To control the Relay using Arduino controller
-
+#
+#
 ## Software required:
 Arduino IDE </br>
 Proteus
