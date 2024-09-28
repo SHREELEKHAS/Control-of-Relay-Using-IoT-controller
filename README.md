@@ -69,13 +69,13 @@ void loop(){
 ```
 
 ## OUTPUT:
-### ON:
+#### ON:
 ![Screenshot 2024-09-11 092415](https://github.com/user-attachments/assets/20b2da94-f34d-4bc7-9480-7b74a98329e8)
 ```
 
 ```
 
-### OFF:
+#### OFF:
 ![Screenshot 2024-09-11 092042](https://github.com/user-attachments/assets/77d80485-1f7c-4e8f-ad1e-a0d9ab0dc015)
 
 
