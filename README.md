@@ -57,7 +57,14 @@ void loop(){
 ## CIRCUIT DIAGRAM:
 ![Screenshot 2024-09-11 091402](https://github.com/user-attachments/assets/b445f03c-9ed6-4b90-a02b-310661ea4381)
 
+```
 
+
+
+
+
+
+```
 
 ## OUTPUT:
 ### ON:
@@ -65,20 +72,7 @@ void loop(){
 ```
 
 ```
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+
 ### OFF:
 ![Screenshot 2024-09-11 092042](https://github.com/user-attachments/assets/77d80485-1f7c-4e8f-ad1e-a0d9ab0dc015)
 
